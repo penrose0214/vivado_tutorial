@@ -1,0 +1,6 @@
+18:08:38 INFO  : Registering command handlers for SDK TCF services
+18:08:39 INFO  : Launching XSCT server: xsct -n -interactive /home/hsk/vivado_tutorial/hello_world/hello_world.sdk/temp_xsdb_launch_script.tcl
+18:08:41 INFO  : XSCT server has started successfully.
+18:08:41 INFO  : Successfully done setting XSCT server connection channel  
+18:08:43 INFO  : Successfully done setting SDK workspace  
+18:08:43 INFO  : Processing command line option -hwspec /home/hsk/vivado_tutorial/hello_world/hello_world.sdk/hello_world_hw_wrapper.hdf.
