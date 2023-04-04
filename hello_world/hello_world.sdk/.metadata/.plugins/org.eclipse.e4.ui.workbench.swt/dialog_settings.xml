@@ -8,7 +8,10 @@
 		<item value="208" key="DIALOG_X_ORIGIN"/>
 		<item value="116" key="DIALOG_Y_ORIGIN"/>
 		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="Remote Systems"/>
 			<item value="Terminal"/>
+			<item value="Tracing"/>
+			<item value="Xilinx"/>
 		</list>
 	</section>
 </section>

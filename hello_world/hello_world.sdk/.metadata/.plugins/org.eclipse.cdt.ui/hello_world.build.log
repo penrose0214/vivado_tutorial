@@ -1,4 +1,4 @@
-18:17:15 **** Build of configuration Debug for project hello_world ****
+13:42:11 **** Build of configuration Debug for project hello_world ****
 make all 
 Building file: ../src/helloworld.c
 Invoking: ARM v8 gcc compiler
@@ -22,5 +22,5 @@ aarch64-none-elf-size hello_world.elf  |tee "hello_world.elf.size"
 Finished building: hello_world.elf.size
  
 
-18:17:15 Build Finished (took 521ms)
+13:42:12 Build Finished (took 510ms)
 
